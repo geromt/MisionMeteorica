@@ -1,0 +1,16 @@
+
+./LANRBodyTracker
+- **LANRBodyTracker**: This is the executable that handles the tracking of the body
+./config
+
+./Packages
+./Temp
+./.vscode
+./Library
+./Assembly-Csharp
+./Assembly-Csharp-Editor
+./Scripts
+./TestEditMode
+./TestPlayMode
+./YamlDotNet
+./YamlDotNet.Examples
