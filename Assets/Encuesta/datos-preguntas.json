@@ -1,0 +1,248 @@
+[
+    {
+        "Title" : "Experiencia de juego",
+        "Questions" : [
+            {
+                "Type" : 0,
+                "Text" : "Fue divertido jugar Misión Meteórica",
+                "IsSensorQuestion" : false,
+                "IsTherapistQuestion" : false
+            },
+            {
+                "Type": 0,
+                "Text": "Me pude concentrar fácilmente mientras jugaba",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Sentí que el tiempo pasó rápido mientras jugaba",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Considero que el tamaño de los meteoritos es adecuado",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Considero que la dificultad se ajusta correctamente a mis habilidades",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Siempre tuve claro lo que tenía que hacer en el juego",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Me sentí estresado mientras jugaba",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Me sentí mareado mientras jugaba",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Me sentí cansado mientras jugaba",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Me dolió la cabeza mientras jugaba",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Me sentí frustrado mientras jugaba",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            }
+        ]
+    },
+    {
+        "Title" : "Usabilidad",
+        "Questions" : [
+            {
+                "Type": 0,
+                "Text": "Fue fácil aprender a jugar",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "El juego fue fácil de utilizar",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Necesité aprender muchas cosas para utilizar el juego",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Considero que podría utilizar el juego sin ayuda",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Considero que la mayoría de las personas aprenderían a utilizar el juego muy rápido",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "El juego tiene errores que lo hicieron difícil de utilizar",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Fue fácil conectar los sensores",
+                "IsSensorQuestion": true,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Considero que las ondas circulares que indican la posición de los asteroides fueron de ayuda para atraparlos",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            }
+        ]
+    },
+    {
+        "Title" : "Fluidez del juego",
+        "Questions" : [
+            {
+                "Type": 0,
+                "Text": "Los movimientos de las manos virtuales reflejan adecuadamente mis movimientos",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Los sensores vibran sólo cuando un meteorito choca con mi mano",
+                "IsSensorQuestion": true,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Fue fácil elegir si seguir jugando o abandonar después de terminar una ronda",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            }
+        ]
+    },
+    {
+        "Title" : "Estética del juego",
+        "Questions" : [
+            {
+                "Type": 0,
+                "Text": "Pude leer todos los textos con claridad",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Los colores del juego fueron agradables",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Las animaciones y modelos 3D me resultaron agradables",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "Las instruccuiones auditivas del juego me resultaron molestas",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "La música y sonidos del juego me resultaron agradables",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 0,
+                "Text": "El juego tiene elementos que interrumpen mi concentración al jugar",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            }
+        ]
+    },
+    {
+        "Title" : "Preguntas para personas con experiencia ofreciendo terapia a pacientes",
+        "Questions" : [
+            {
+                "Type": 0,
+                "Text": "Considero que el juego puede ser una buena herramienta para rehabilitación",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": true
+            },
+            {
+                "Type": 0,
+                "Text": "Considero que los movimientos realizados son útiles para el paciente",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": true
+            },
+            {
+                "Type": 0,
+                "Text": "Considero que los pacientes aprenderían a jugar fácilmente",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": true
+            }
+        ]
+    },
+    {
+        "Title" : "Preguntas abiertas",
+        "Questions" : [
+            {
+                "Type": 1,
+                "Text": "¿Qué mejorarías del juego?",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 1,
+                "Text": "¿Qué te gustó más del juego?",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 1,
+                "Text": "¿Qué te gustó menos del juego?",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 1,
+                "Text": "¿Sentiste que los sensores mejoraban la experiencia de juego, y cómo?",
+                "IsSensorQuestion": true,
+                "IsTherapistQuestion": false
+            },
+            {
+                "Type": 1,
+                "Text": "¿Cómo te sentiste mientras jugabas?",
+                "IsSensorQuestion": false,
+                "IsTherapistQuestion": false
+            }
+        ]
+    }
+]

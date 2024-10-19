@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d6df5200f9a5ac740ad75791a65b74a6
+timeCreated: 1592370778
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zeroes 2
+  fontNames:
+  - Zeroes 2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

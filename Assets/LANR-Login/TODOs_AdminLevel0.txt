@@ -1,0 +1,5 @@
+Funciones a cambiar de Admin_level0:
+	VeACreditos
+	Independiente
+	RevisaDatosTerapeuta (linea LoadScene)
+	VerifyTherapist (dos lineas de LoadScene)
