@@ -1,6 +1,4 @@
-
 ./LANRBodyTracker
-- **LANRBodyTracker**: This is the executable that handles the tracking of the body
 ./config
 
 ./Packages
